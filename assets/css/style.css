@@ -1,0 +1,8 @@
+body {
+    background-color: rgba(49, 49, 49, 0.912);
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    translate: 50%, 50%;
+    background-color: rgba(49, 49, 49, 0.680);
+}
